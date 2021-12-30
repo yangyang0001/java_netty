@@ -133,7 +133,7 @@ Pipe 管道: 环回测试使用的两种 SinkChannel 写出使用, SourceChannel
 
 
 
-
+其余有关的NIO相关的可以参考 netty_01_leture 中的
 
 
 
